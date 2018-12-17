@@ -39,3 +39,6 @@ fields:
   type: text
   hidden: true
   default: post
+- type: text
+  name: meta_description
+  label: meta description
